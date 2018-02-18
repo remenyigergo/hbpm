@@ -1,0 +1,10 @@
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\bin\Debug\hbpm.exe.config
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\bin\Debug\hbpm.exe
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\bin\Debug\hbpm.pdb
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.csprojResolveAssemblyReference.cache
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.Form1.resources
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.Properties.Resources.resources
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.csproj.GenerateResource.Cache
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.csproj.CoreCompileInputs.cache
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.exe
+C:\Users\Rendszergazda.DESKTOP-3JFCJ07\Documents\HBPM\hbpm\hbpm\obj\Debug\hbpm.pdb
